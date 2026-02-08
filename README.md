@@ -13,5 +13,4 @@ This project analyzes real web traffic data from The Recording Academy ("the Gra
 - Compared engagement metrics during "Awards Week" vs. standard days.
 
 ## How to View the Interactive Plots
-**Note:** GitHub does not render interactive Plotly graphs. To see the full interactive analysis, please [click here to view via nbviewer](https://nbviewer.org/).
-*(Note: You will add the link after you push the code).*
+**Note:** GitHub does not render interactive Plotly graphs. To see the full interactive analysis, please [click here to view via nbviewer]([https://nbviewer.org/](https://nbviewer.org/github/mmm11122211/Grammys-Web-Analytics/blob/main/Analyzing-Website-Performance-Grammys.ipynb)).
